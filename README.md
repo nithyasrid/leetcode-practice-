@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/nithyasrid/leetcode-practice-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nithyasrid/leetcode-practice-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nithyasrid/leetcode-practice-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nithyasrid/leetcode-practice-/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
