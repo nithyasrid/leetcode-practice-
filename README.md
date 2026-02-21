@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -59,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nithyasrid/leetcode-practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nithyasrid/leetcode-practice-/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
