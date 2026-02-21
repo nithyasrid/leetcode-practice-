@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nithyasrid/leetcode-practice-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nithyasrid/leetcode-practice-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nithyasrid/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
@@ -88,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nithyasrid/leetcode-practice-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nithyasrid/leetcode-practice-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nithyasrid/leetcode-practice-/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nithyasrid/leetcode-practice-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nithyasrid/leetcode-practice-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nithyasrid/leetcode-practice-/tree/master/0213-house-robber-ii) |
