@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nithyasrid/leetcode-practice-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
