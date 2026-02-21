@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyasrid/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/nithyasrid/leetcode-practice-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/nithyasrid/leetcode-practice-/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nithyasrid/leetcode-practice-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
