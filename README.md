@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nithyasrid/leetcode-practice-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/nithyasrid/leetcode-practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/nithyasrid/leetcode-practice-/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/nithyasrid/leetcode-practice-/tree/master/0740-delete-and-earn) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyasrid/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nithyasrid/leetcode-practice-/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nithyasrid/leetcode-practice-/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
