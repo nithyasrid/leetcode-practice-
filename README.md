@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nithyasrid/leetcode-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyasrid/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nithyasrid/leetcode-practice-/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -32,8 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyasrid/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nithyasrid/leetcode-practice-/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyasrid/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nithyasrid/leetcode-practice-/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
