@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nithyasrid/leetcode-practice-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nithyasrid/leetcode-practice-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/nithyasrid/leetcode-practice-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/leetcode-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/leetcode-practice-/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/nithyasrid/leetcode-practice-/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nithyasrid/leetcode-practice-/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/nithyasrid/leetcode-practice-/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
